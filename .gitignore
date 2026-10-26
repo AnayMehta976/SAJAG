@@ -1,0 +1,9 @@
+# Your WiFi password and Telegram bot token
+SAJAG/secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+.vscode/
+.DS_Store
