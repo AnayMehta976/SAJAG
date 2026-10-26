@@ -1,6 +1,6 @@
 /*
   SAJAG - smart electricity monitor
-  Bal Vigyan 2024
+  Regional science fair project, 2024
 
   ESP32 + ZMPT101B (voltage) + ACS712 (current) + 16x2 LCD.
   Measures voltage, current, power and energy, estimates the bill from the

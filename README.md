@@ -2,7 +2,7 @@
 
 **SAJAG** (सजग, "alert") is an IoT device that sits at a home's main power supply and shows exactly how electricity is being used. Normal meters only give one number at the end of the month. SAJAG measures voltage, current and power every second, works out the bill from the current tariff slabs, and sends alerts and a daily report on **Telegram**. It also flags unusual usage that could mean someone else is drawing power from your connection.
 
-Built for **Bal Vigyan 2024**.
+Built for a regional science fair (2024).
 
 ## The problem
 
